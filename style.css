@@ -47,3 +47,8 @@ i, svg {
 .kick, .snare, .hihat {
     display: flex;
 }
+
+.controls {
+    display:flex;
+    
+}
